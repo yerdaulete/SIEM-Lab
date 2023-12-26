@@ -14,7 +14,7 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 <br />
 
 <p align="center">
-<img src="https://ltdfoto.ru/images/2023/11/20/WhatsApp-Image-2023-10-30-at-19.41.19.jpg" alt="WhatsApp-Image-2023-10-30-at-19.41.19.jpg" border="0" />
+<img src="https://ltdfoto.ru/images/2023/12/26/WhatsApp-Image-2023-10-30-at-19.41.19.jpg" alt="WhatsApp-Image-2023-10-30-at-19.41.19.jpg" border="0" />
 </p>
 <h2>Languages Used</h2>
 
@@ -27,13 +27,13 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 <h2>Attacks from Mexico coming in; Custom logs being output with geodata</h2>
 
 <p align="center">
-<img src="https://ltdfoto.ru/images/2023/11/20/WhatsApp-Image-2023-10-30-at-00.42.22.jpg" alt="WhatsApp-Image-2023-10-30-at-00.42.22.jpg" border="0" />
+<img src="https://ltdfoto.ru/images/2023/12/26/WhatsApp-Image-2023-10-30-at-00.42.22.jpg" alt="WhatsApp-Image-2023-10-30-at-00.42.22.jpg" border="0" />
 </p>
 
 <h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
 
 <p align="center">
-<img src="https://ltdfoto.ru/images/2023/12/13/WhatsApp-Image-2023-10-30-at-00.46.08.jpg" alt="WhatsApp-Image-2023-10-30-at-00.46.08.jpg" border="0" />
+<img src="https://ltdfoto.ru/images/2023/12/26/WhatsApp-Image-2023-10-30-at-00.46.08.jpg" alt="WhatsApp-Image-2023-10-30-at-00.46.08.jpg" border="0" />
 </p>
 
 
