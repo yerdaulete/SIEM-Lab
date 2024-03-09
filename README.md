@@ -14,7 +14,7 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 <br />
 
 <p align="center">
-<img src="https://github.com/yerdaulete/SIEM-Lab/blob/main/41.19.jpeg" alt="https://github.com/yerdaulete/SIEM-Lab/blob/main/41.19.jpeg" border="0" />
+<img src="https://github.com/yerdaulete/SIEM-Lab/blob/main/images/41.19.jpeg" alt="https://github.com/yerdaulete/SIEM-Lab/blob/main/41.19.jpeg" border="0" />
 </p>
 <h2>Languages Used</h2>
 
@@ -27,13 +27,13 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 <h2>Attacks from Mexico coming in; Custom logs being output with geodata</h2>
 
 <p align="center">
-<img src="https://github.com/yerdaulete/SIEM-Lab/blob/main/42.22.jpeg" alt="https://github.com/yerdaulete/SIEM-Lab/blob/main/42.22.jpeg" border="0" />
+<img src="https://github.com/yerdaulete/SIEM-Lab/blob/main/images/42.22.jpeg" alt="https://github.com/yerdaulete/SIEM-Lab/blob/main/42.22.jpeg" border="0" />
 </p>
 
 <h2>World map of incoming attacks after 24 hours (built custom logs including geodata)</h2>
 
 <p align="center">
-<img src="https://github.com/yerdaulete/SIEM-Lab/blob/main/46.08.jpeg" alt="https://github.com/yerdaulete/SIEM-Lab/blob/main/46.08.jpeg" border="0" />
+<img src="https://github.com/yerdaulete/SIEM-Lab/blob/main/images/46.08.jpeg" alt="https://github.com/yerdaulete/SIEM-Lab/blob/main/46.08.jpeg" border="0" />
 </p>
 
 
